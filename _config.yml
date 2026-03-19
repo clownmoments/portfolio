@@ -1,0 +1,22 @@
+theme: alembic-jekyll-theme
+timezone: Europe/Paris
+encoding: utf-8
+
+highlighter: rouge
+
+plugins:
+  - jemoji
+
+
+defaults:
+  -
+    scope: 
+      path: ""
+    values:
+      layout: "default"
+      author: "Khushi Moger"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
