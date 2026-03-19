@@ -5,3 +5,4 @@ gemspec
 gem "tzinfo-data"
 gem "jemoji"
 gem "rouge"
+gem "github-pages"
