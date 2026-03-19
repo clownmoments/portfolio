@@ -2,8 +2,7 @@
 
 source "https://rubygems.org"
 gemspec
+
 gem "tzinfo-data"
 gem "jemoji"
 gem "rouge"
-gem "github-pages"
-gem "alembic-jekyll-theme"

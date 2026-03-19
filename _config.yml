@@ -1,4 +1,4 @@
-theme: alembic-jekyll-theme
+theme: clownmoments
 timezone: Europe/Paris
 encoding: utf-8
 
@@ -19,4 +19,3 @@ defaults:
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
